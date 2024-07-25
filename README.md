@@ -1,4 +1,17 @@
-# template--nx-angular--basic
+# showcase--nx-angular--nx-environment-variables
+
+## Showcase
+
+This repository showcases how to use environment variables in Angular application within Nx monorepo.
+
+Setup:
+
+1. Copy `.env.template` to `.env`
+2. Start the development server or build and serve the built app
+3. Open the app in the browser
+4. Check the console for the environment variable value
+
+Implementation: See a couple of last commits in the repository.
 
 ## Local development
 
